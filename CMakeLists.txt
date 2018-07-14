@@ -9,25 +9,34 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # export compilation database for YCM
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-# load packages
-set(CMAKE_LIBRARY_PATH /usr/local/lib/sfml)
+#################
+# load packages #
+#################
 set(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake_modules)
+# sfml
+set(CMAKE_LIBRARY_PATH /usr/local/lib/sfml)
 find_package(SFML REQUIRED COMPONENTS graphics window system)
-
-# headers directories
 include_directories(${SFML_INCLUDE_DIR})
+# boost
+set(CMAKE_LIBRARY_PATH /usr/local/lib/boost)
+find_package(Boost REQUIRED COMPONENTS system filesystem)
+include_directories(${BOOST_INCLUDE_DIR})
 
 # project directories
-include_directories(headers)
+include_directories(src
+					src/grappa
+				   	src/grappa/interface src/grappa/animation)
 
 # project sources
-file(GLOB SRC src/*.cpp)
+file(GLOB_RECURSE SRC src/*.cpp)
 
 # create exectuables
 add_executable(Proj ${SRC}) 
 
 # link libraries
-target_link_libraries(Proj ${SFML_LIBRARIES} ${SFML_DPENDENCIES})
+target_link_libraries(Proj ${SFML_LIBRARIES} ${SFML_DPENDENCIES}
+						   ${Boost_SYSTEM_LIBRARY} ${Boost_FILESYSTEM_LIBRARY}
+						   ${LUA_LIBRARIES})
 
 # copy resources from resource directories into build directory
 set(source "${CMAKE_SOURCE_DIR}/assets")

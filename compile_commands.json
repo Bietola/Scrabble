@@ -1,7 +1,147 @@
 [
 {
-  "directory": "/home/dincio/code/cpp/games/sfml/Defence/build",
-  "command": "/usr/bin/c++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Defence/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/main.cpp.o -c /home/dincio/code/cpp/games/sfml/Defence/src/main.cpp",
-  "file": "/home/dincio/code/cpp/games/sfml/Defence/src/main.cpp"
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Board.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Board.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Board.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Deck.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Deck.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Deck.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Dictionary.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Dictionary.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Dictionary.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Dizionario.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Dizionario.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Dizionario.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/EndScreenHandler.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/EndScreenHandler.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/EndScreenHandler.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/EventHandler.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/EventHandler.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/EventHandler.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/Handler.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/Handler.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/Handler.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/MediaProvider.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/MediaProvider.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/MediaProvider.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/animation/Animation.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/animation/Animation.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/animation/Animation.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/animation/AnimationHandler.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/animation/AnimationHandler.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/animation/AnimationHandler.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/Bar.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Bar.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Bar.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/Button.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Button.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Button.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/ButtonFunctions.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/ButtonFunctions.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/ButtonFunctions.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/Container.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Container.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Container.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/Interface.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Interface.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/Interface.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/PictureBox.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/PictureBox.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/PictureBox.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/TextBox.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/TextBox.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/TextBox.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/TransBox.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/TransBox.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/TransBox.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/interface/globals.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/globals.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/interface/globals.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Grappa/utils.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/utils.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Grappa/utils.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/InterBoard.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/InterBoard.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/InterBoard.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/InterTile.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/InterTile.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/InterTile.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Player.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/Player.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/Player.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/TileSheet.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/TileSheet.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/TileSheet.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/TurnHandler.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/TurnHandler.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/TurnHandler.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/WordInfo.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/WordInfo.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/WordInfo.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/globals.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/globals.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/globals.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/main.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/main.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/main.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Scrabble/build",
+  "command": "/usr/bin/g++   -I/usr/local/include -I/home/dincio/code/cpp/games/sfml/Scrabble/src -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/interface -I/home/dincio/code/cpp/games/sfml/Scrabble/src/grappa/animation    -std=gnu++1z -o CMakeFiles/Proj.dir/src/media.cpp.o -c /home/dincio/code/cpp/games/sfml/Scrabble/src/media.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Scrabble/src/media.cpp"
 }
 ]

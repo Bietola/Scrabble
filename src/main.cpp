@@ -1,44 +1,73 @@
+#include <cassert>
+#include <cstdlib>
+#include <ctime>
 #include <iostream>
 
 #include <SFML/Graphics.hpp>
 
-#include "utils.h"
+#include "media.h"
 
-int main() {
-    sf::RenderWindow window(sf::VideoMode(500, 500), "test");
+#include "Grappa/interface/Button.h"
+#include "Grappa/interface/ButtonFunctions.h"
+#include "Grappa/interface/PictureBox.h"
+#include "Grappa/interface/TextBox.h"
 
-    sf::Texture catTexture;
-    sf::Font    font;
-    catTexture .loadFromFile("assets/cat.jpg");
-    font       .loadFromFile("assets/aposiopesis.ttf");
+#include "TileSheet.h"
+#include "Board.h"
+#include "Dictionary.h"
+#include "handlers.h"
 
+#define SCREEN_W 1250
+#define SCREEN_H 800
+
+int main()
+{   
+    ///initialization
+    //seed random gen
+    srand(time(NULL));
+
+    //create window
+    sf::RenderWindow window(sf::VideoMode(SCREEN_W, SCREEN_H), "Scrabble");
+
+    //load media
+    if(!load_media())
+        std::cout << "ERROR: could not load media" << std::endl;
+
+    //generate tile sheet
+    TileSheet tileSheet;
+    tileSheet.generate(6, 500);
+
+    //load dictionary
+    Dictionary dictionary("dictionaries/ita.txt");
+
+    //generate board
+    Board board("boards/scarabeo.txt", dictionary);
+
+    //initialize turn handler
+    Handler* gameHandler = new TurnHandler(tileSheet, window, std::move(board), "players.txt");
+
+    ///main loop
+    sf::Event e;
+    sf::Clock frameClock;
     while(window.isOpen()) {
-
-        sf::Event e;
-        if(window.pollEvent(e)) {
-            if(e.type == sf::Event::Closed ||
-               e.type == sf::Event::KeyPressed) {
-                window.close();
-            }
+        //event handling
+        while(window.pollEvent(e)) {
+            if(e.type == sf::Event::Closed) window.close();
+            gameHandler->handleEvent(e);
         }
 
-        window.clear();
-        window.draw([&catTexture] {
-            sf::Sprite sprt(catTexture);
-            sprt.scale(0.5, 0.5);
-            return sprt;
-        }());
-        window.draw([&font, &window] {
-            auto text = sf::Text(greet("world"), font);
-            auto ws = window.getSize();
-            auto tb = text.getGlobalBounds();
-            text.setPosition(ws.x / 2.f - tb.width  / 2.f,
-                             ws.y / 2.f - tb.height / 2.f);
-            text.setFillColor(sf::Color::Yellow);
-            return text;
-        }());
-        window.display();
-    }
+        //logic
+        gameHandler->handleLogic(frameClock.getElapsedTime());
 
-    return 0;
+        //graphics
+        window.clear();
+        gameHandler->handleDrawing();
+        window.display();
+
+        //attempt to change handler
+        Handler::change(gameHandler);
+
+        //reset frame clock
+        frameClock.restart();
+    }
 }

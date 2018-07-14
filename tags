@@ -1,0 +1,874 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ANIMATIONHANDLER_H_INCLUDED	src/Grappa/animation/AnimationHandler.h	2;"	d	language:C++
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	416;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	419;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	422;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	425;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	429;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	431;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	433;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	437;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	440;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	443;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	448;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	451;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	454;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	459;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	462;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	465;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	468;"	d	language:C	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	404;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	407;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	410;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	414;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	416;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	418;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	422;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	425;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	428;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	433;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	436;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	439;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	language:C++	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	language:C++	file:
+Animation	src/Grappa/animation/Animation.cpp	/^Animation::Animation(const AnimationInfo& info):$/;"	f	language:C++	class:Animation
+Animation	src/Grappa/animation/Animation.h	/^class Animation {$/;"	c	language:C++
+AnimationHandler	src/Grappa/animation/AnimationHandler.cpp	/^AnimationHandler::AnimationHandler():$/;"	f	language:C++	class:AnimationHandler
+AnimationHandler	src/Grappa/animation/AnimationHandler.h	/^class AnimationHandler {$/;"	c	language:C++
+AnimationInfo	src/Grappa/animation/Animation.h	/^        AnimationInfo() {}$/;"	f	language:C++	class:AnimationInfo
+AnimationInfo	src/Grappa/animation/Animation.h	/^class AnimationInfo {$/;"	c	language:C++
+BAR_H_INCLUDED	src/Grappa/interface/Bar.h	2;"	d	language:C++
+BOARDTILES_H_INCLUDED	src/BoardTiles.h	2;"	d	language:C++
+BOARD_H_INCLUDED	src/Board.h	2;"	d	language:C++
+BUTTON_H_INCLUDED	src/Grappa/interface/Button.h	2;"	d	language:C++
+BVS_INVALID	src/handlers.h	/^            BVS_INVALID,$/;"	e	language:C++	enum:TurnHandler::board_validation_state_t
+BVS_NONE	src/handlers.h	/^            BVS_NONE,$/;"	e	language:C++	enum:TurnHandler::board_validation_state_t
+BVS_VALID	src/handlers.h	/^            BVS_VALID,$/;"	e	language:C++	enum:TurnHandler::board_validation_state_t
+BVS_VALIDATED	src/handlers.h	/^            BVS_VALIDATED$/;"	e	language:C++	enum:TurnHandler::board_validation_state_t
+B_LETTER	src/BoardTiles.h	/^            B_LETTER,$/;"	e	language:C++	enum:PointsTile::bonus_t
+B_START	src/BoardTiles.h	/^            B_START$/;"	e	language:C++	enum:PointsTile::bonus_t
+B_WORD	src/BoardTiles.h	/^            B_WORD,$/;"	e	language:C++	enum:PointsTile::bonus_t
+Bar	src/Grappa/interface/Bar.cpp	/^gr::Bar::Bar(const Bar& other):$/;"	f	language:C++	class:gr::Bar
+Bar	src/Grappa/interface/Bar.cpp	/^gr::Bar::Bar(const sf::FloatRect& bounds, const std::function<double()>& valueGetter,$/;"	f	language:C++	class:gr::Bar
+Bar	src/Grappa/interface/Bar.h	/^class Bar: public InterfaceImpl<Bar> {$/;"	c	language:C++	namespace:gr
+Board	src/Board.cpp	/^Board::Board(Board&& board):$/;"	f	language:C++	class:Board
+Board	src/Board.cpp	/^Board::Board(const std::string& filePath, const Dictionary& dictionary):$/;"	f	language:C++	class:Board
+Board	src/Board.h	/^class Board {$/;"	c	language:C++
+BoardTile	src/BoardTiles.h	/^struct BoardTile {$/;"	s	language:C++
+Button	src/Grappa/interface/Button.cpp	/^gr::Button::Button():$/;"	f	language:C++	class:gr::Button
+Button	src/Grappa/interface/Button.cpp	/^gr::Button::Button(const Button& other):$/;"	f	language:C++	class:gr::Button
+Button	src/Grappa/interface/Button.cpp	/^gr::Button::Button(const sf::FloatRect& clickBox):$/;"	f	language:C++	class:gr::Button
+Button	src/Grappa/interface/Button.h	/^class Button: public InterfaceImpl<Button> {$/;"	c	language:C++	namespace:gr
+CLICKSTATUS	src/Grappa/interface/globals.h	/^enum CLICKSTATUS{$/;"	g	language:C++	namespace:gr
+CLICKST_CLICKING	src/Grappa/interface/globals.h	/^	CLICKST_CLICKING,   \/\/mouse inside bounds and clicking$/;"	e	language:C++	enum:gr::CLICKSTATUS
+CLICKST_DEFAULT	src/Grappa/interface/globals.h	/^	CLICKST_DEFAULT,	\/\/fallback for when other click states are not defined$/;"	e	language:C++	enum:gr::CLICKSTATUS
+CLICKST_HOVERING	src/Grappa/interface/globals.h	/^	CLICKST_HOVERING,   \/\/mouse inside bounds$/;"	e	language:C++	enum:gr::CLICKSTATUS
+CLICKST_MAX	src/Grappa/interface/globals.h	/^	CLICKST_MAX$/;"	e	language:C++	enum:gr::CLICKSTATUS
+CLICKST_OUTSIDE	src/Grappa/interface/globals.h	/^	CLICKST_OUTSIDE,    \/\/mouse outside bounds$/;"	e	language:C++	enum:gr::CLICKSTATUS
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/dincio\/code\/cpp\/games\/sfml\/Scrabble\/build$/;"	m	language:Make
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m	language:Make
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/dincio\/code\/cpp\/games\/sfml\/Scrabble$/;"	m	language:Make
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	101;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	108;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	115;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	122;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	129;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	137;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	142;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	149;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	152;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	155;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	158;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	161;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	176;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	190;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	19;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	200;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	218;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	227;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	236;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	251;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	264;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	282;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	285;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	288;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	42;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	50;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	56;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	62;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	71;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	80;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	94;"	d	language:C	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	270;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	language:C++	file:
+COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	language:C++	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	232;"	d	language:C	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	103;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	110;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	117;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	124;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	130;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	138;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	144;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	165;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	180;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	191;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	202;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	221;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	229;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	239;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	244;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	24;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	253;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	258;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	267;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	272;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	43;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	51;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	58;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	64;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	73;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	83;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	88;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	96;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	252;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	104;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	111;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	118;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	125;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	131;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	139;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	145;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	166;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	181;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	193;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	203;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	222;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	230;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	240;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	245;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	254;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	259;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	25;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	268;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	273;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	44;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	52;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	59;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	65;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	74;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	84;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	89;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	97;"	d	language:C	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	105;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	112;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	119;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	126;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	133;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	146;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	167;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	182;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	196;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	207;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	210;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	223;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	231;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	241;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	246;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	255;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	260;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	269;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	274;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	27;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	29;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	46;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	53;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	67;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	76;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	85;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	90;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	98;"	d	language:C	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	259;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	language:C++	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	173;"	d	language:C	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	214;"	d	language:C	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	33;"	d	language:C	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	language:C++	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	language:C++	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	language:C++	file:
+CONSTANTS_H_INCLUDED	src/constants.h	2;"	d	language:C++
+CONTR_CPU	src/Player.h	/^            CONTR_CPU$/;"	e	language:C++	enum:Player::contr_t
+CONTR_PLAYER	src/Player.h	/^            CONTR_PLAYER,$/;"	e	language:C++	enum:Player::contr_t
+CXX_STD	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	534;"	d	language:C++	file:
+CXX_STD	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	536;"	d	language:C++	file:
+C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	550;"	d	language:C	file:
+C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	552;"	d	language:C	file:
+C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	555;"	d	language:C	file:
+C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	557;"	d	language:C	file:
+C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	559;"	d	language:C	file:
+Clip	src/Grappa/interface/ButtonFunctions.cpp	/^gr::Clip::Clip(Button& button, const sf::Texture& texture):$/;"	f	language:C++	class:gr::Clip
+Clip	src/Grappa/interface/ButtonFunctions.cpp	/^gr::Clip::Clip(Button& button, const sf::Texture& texture, Orientation orientation,$/;"	f	language:C++	class:gr::Clip
+Clip	src/Grappa/interface/ButtonFunctions.cpp	/^gr::Clip::Clip(Button& button, const sf::Texture& texture,$/;"	f	language:C++	class:gr::Clip
+Clip	src/Grappa/interface/ButtonFunctions.h	/^class Clip {$/;"	c	language:C++	namespace:gr
+DEC	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	472;"	d	language:C	file:
+DEC	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	language:C++	file:
+DECK_H_INCLUDED	src/Deck.h	2;"	d	language:C++
+DECK_TILE_NUMBERS	src/constants.h	/^const std::map<char,unsigned int> DECK_TILE_NUMBERS = {$/;"	v	language:C++
+DICTIONARY_H_INCLUDED	src/Dictionary.h	2;"	d	language:C++
+DIZIONARIO_H	src/Dizionario.h	2;"	d	language:C++
+Deck	src/Deck.cpp	/^Deck::Deck(){$/;"	f	language:C++	class:Deck
+Deck	src/Deck.h	/^class Deck{$/;"	c	language:C++
+Dictionary	src/Dictionary.cpp	/^Dictionary::Dictionary():$/;"	f	language:C++	class:Dictionary
+Dictionary	src/Dictionary.cpp	/^Dictionary::Dictionary(const std::string& file){$/;"	f	language:C++	class:Dictionary
+Dictionary	src/Dictionary.h	/^class Dictionary{$/;"	c	language:C++
+Dizionario	src/Dizionario.cpp	/^Dizionario::Dizionario():$/;"	f	language:C++	class:Dizionario
+Dizionario	src/Dizionario.cpp	/^Dizionario::Dizionario(const string &s){$/;"	f	language:C++	class:Dizionario
+Dizionario	src/Dizionario.h	/^class Dizionario{$/;"	c	language:C++
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m	language:Make
+ERR_EMPTY	src/WordInfo.h	/^            ERR_EMPTY$/;"	e	language:C++	enum:WordInfo::error_t
+ERR_INVALID_POSITION	src/WordInfo.h	/^            ERR_INVALID_POSITION,$/;"	e	language:C++	enum:WordInfo::error_t
+ERR_NONE	src/WordInfo.h	/^            ERR_NONE = 0,$/;"	e	language:C++	enum:WordInfo::error_t
+ERR_NOT_IN_DICTIONARY	src/WordInfo.h	/^            ERR_NOT_IN_DICTIONARY,$/;"	e	language:C++	enum:WordInfo::error_t
+ERR_NO_NEW_TILES_ON_BOARD	src/WordInfo.h	/^            ERR_NO_NEW_TILES_ON_BOARD = 1,$/;"	e	language:C++	enum:WordInfo::error_t
+ERR_NO_NEW_TILES_ON_WORD	src/WordInfo.h	/^            ERR_NO_NEW_TILES_ON_WORD,$/;"	e	language:C++	enum:WordInfo::error_t
+EVENTHANDLER_H_INCLUDED	src/EventHandler.h	2;"	d	language:C++
+EndScreenHandler	src/EndScreenHandler.cpp	/^EndScreenHandler::EndScreenHandler(sf::RenderWindow& window, std::vector<Player>&& players):$/;"	f	language:C++	class:EndScreenHandler
+EndScreenHandler	src/handlers.h	/^class EndScreenHandler: public Handler{$/;"	c	language:C++
+EventHandler	src/EventHandler.h	/^class EventHandler{$/;"	c	language:C++
+HANDLERS_H_INCLUDED	src/handlers.h	2;"	d	language:C++
+HAND_SIZE	src/constants.h	/^const unsigned int HAND_SIZE = 8;$/;"	v	language:C++
+HEX	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	483;"	d	language:C	file:
+HEX	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	language:C++	file:
+Handler	src/Grappa/Handler.h	/^        Handler(sf::RenderWindow& window): mWindow(window) {}$/;"	f	language:C++	class:Handler
+Handler	src/Grappa/Handler.h	/^class Handler{$/;"	c	language:C++
+Horizontal	src/Grappa/interface/globals.h	/^	Horizontal,$/;"	m	language:C++	class:gr::Orientation
+ID_VOID_MAIN	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	6;"	d	language:C	file:
+IMPL_CLASS_BEGIN	src/Grappa/utils.h	14;"	d	language:C++
+IMPL_CLASS_END	src/Grappa/utils.h	19;"	d	language:C++
+IMPL_FUN	src/Grappa/utils.h	21;"	d	language:C++
+INTERBOARD_H_INCLUDED	src/InterBoard.h	2;"	d	language:C++
+INTERFACE_H_INCLUDED	src/Grappa/interface/Interface.h	2;"	d	language:C++
+INTERTILE_H_INCLUDED	src/InterTile.h	2;"	d	language:C++
+InterBoard	src/InterBoard.cpp	/^InterBoard::InterBoard(Board&& board, const TileSheet& tileSheet):$/;"	f	language:C++	class:InterBoard
+InterBoard	src/InterBoard.h	/^class InterBoard: public Board, public sf::Drawable, public sf::Transformable {$/;"	c	language:C++
+InterTile	src/InterTile.cpp	/^InterTile::InterTile(const TileSheet& tileSheet, char symbol):$/;"	f	language:C++	class:InterTile
+InterTile	src/InterTile.h	/^class InterTile: public gr::Button{$/;"	c	language:C++
+Interface	src/Grappa/interface/Interface.cpp	/^gr::Interface::Interface(const Interface& other):$/;"	f	language:C++	class:gr::Interface
+Interface	src/Grappa/interface/Interface.h	/^class Interface: public gr::TransBox, public sf::Drawable {$/;"	c	language:C++	namespace:gr
+LETTERS_POINTS	src/constants.h	/^const std::map<char,unsigned int> LETTERS_POINTS = {$/;"	v	language:C++
+LETTER_BONUS_POINTS_TILES_NUMBER	src/TileSheet.h	/^        static const unsigned int LETTER_BONUS_POINTS_TILES_NUMBER = 5;$/;"	m	language:C++	class:TileSheet
+LETTER_BONUS_POINTS_TILES_SI	src/TileSheet.h	/^        static const unsigned int LETTER_BONUS_POINTS_TILES_SI = LETTER_TILES_NUMBER;$/;"	m	language:C++	class:TileSheet
+LETTER_TILES_NUMBER	src/TileSheet.h	/^        static const unsigned int LETTER_TILES_NUMBER = 26;$/;"	m	language:C++	class:TileSheet
+LETTER_TILES_SI	src/TileSheet.h	/^        static const unsigned int LETTER_TILES_SI = 0;$/;"	m	language:C++	class:TileSheet
+LOADSYM_BONUS_EMPTY	src/Board.h	/^        static const char LOADSYM_BONUS_EMPTY = '_';$/;"	m	language:C++	class:Board
+LOADSYM_BONUS_LETTER	src/Board.h	/^        static const char LOADSYM_BONUS_LETTER = 'L';$/;"	m	language:C++	class:Board
+LOADSYM_BONUS_START	src/Board.h	/^        static const char LOADSYM_BONUS_START = 'S';$/;"	m	language:C++	class:Board
+LOADSYM_BONUS_WORD	src/Board.h	/^        static const char LOADSYM_BONUS_WORD = 'W';$/;"	m	language:C++	class:Board
+LOADSYM_READ	src/Board.h	/^        static const char LOADSYM_READ = '#';$/;"	m	language:C++	class:Board
+LetterTile	src/BoardTiles.h	/^        LetterTile(){}$/;"	f	language:C++	class:LetterTile
+LetterTile	src/BoardTiles.h	/^        LetterTile(char symbol, bool isNew):$/;"	f	language:C++	class:LetterTile
+LetterTile	src/BoardTiles.h	/^class LetterTile {$/;"	c	language:C++
+MAX_POINT_MULT	src/Board.h	/^        static const unsigned MAX_POINT_MULT = 9;$/;"	m	language:C++	class:Board
+MEDIA_H_INCLUDED	src/media.h	2;"	d	language:C++
+MediaProvider	src/Grappa/MediaProvider.h	/^class MediaProvider {$/;"	c	language:C++
+NUMBER_OF_LETTERS	src/constants.h	/^const unsigned int NUMBER_OF_LETTERS = 26;$/;"	v	language:C++
+Node	src/Dictionary.h	/^            Node() {$/;"	f	language:C++	struct:Dictionary::Node
+Node	src/Dictionary.h	/^        struct Node {$/;"	s	language:C++	class:Dictionary
+Nodo	src/Dizionario.h	/^        Nodo() {$/;"	f	language:C++	struct:Dizionario::Nodo
+Nodo	src/Dizionario.h	/^    struct Nodo{$/;"	s	language:C++	class:Dizionario
+O_HORIZONTAL	src/WordInfo.h	/^    O_HORIZONTAL,$/;"	e	language:C++	enum:orientation_t
+O_VERTICAL	src/WordInfo.h	/^    O_VERTICAL$/;"	e	language:C++	enum:orientation_t
+Orientation	src/Grappa/interface/globals.h	/^enum class Orientation {$/;"	c	language:C++	namespace:gr
+PICTUREBOX_H_INCLUDED	src/Grappa/interface/PictureBox.h	2;"	d	language:C++
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	313;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	316;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	319;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	322;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	325;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	328;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	331;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	334;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	337;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	340;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	343;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	346;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	349;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	352;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	355;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	358;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	361;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	364;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	367;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	370;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	373;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	376;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	379;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	382;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	385;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	389;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	392;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	395;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	398;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	401;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	405;"	d	language:C	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	310;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	316;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	322;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	325;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	331;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	334;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	337;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	355;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	358;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	361;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	374;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	377;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	383;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	386;"	d	language:C++	file:
+PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	language:C++	file:
+PLAYER_H_INCLUDED	src/Player.h	2;"	d	language:C++
+PictureBox	src/Grappa/interface/PictureBox.cpp	/^gr::PictureBox::PictureBox(const PictureBox& other):$/;"	f	language:C++	class:gr::PictureBox
+PictureBox	src/Grappa/interface/PictureBox.cpp	/^gr::PictureBox::PictureBox(const sf::FloatRect& bounds, const sf::Texture& texture):$/;"	f	language:C++	class:gr::PictureBox
+PictureBox	src/Grappa/interface/PictureBox.cpp	/^gr::PictureBox::PictureBox(const sf::FloatRect& bounds, const sf::Texture& texture, const sf::IntRect& textureRect):$/;"	f	language:C++	class:gr::PictureBox
+PictureBox	src/Grappa/interface/PictureBox.h	/^class PictureBox: public InterfaceImpl<PictureBox> {$/;"	c	language:C++	namespace:gr
+Player	src/Player.cpp	/^Player::Player(const std::string& name, contr_t contr):$/;"	f	language:C++	class:Player
+Player	src/Player.h	/^class Player{$/;"	c	language:C++
+PointsTile	src/BoardTiles.h	/^        PointsTile(bonus_t bonus = B_LETTER, unsigned int points = 1):$/;"	f	language:C++	class:PointsTile
+PointsTile	src/BoardTiles.h	/^class PointsTile {$/;"	c	language:C++
+RM	build/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m	language:Make
+SCREEN_H	src/main.cpp	21;"	d	language:C++	file:
+SCREEN_W	src/main.cpp	20;"	d	language:C++	file:
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m	language:Make
+SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	163;"	d	language:C	file:
+SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	178;"	d	language:C	file:
+SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	21;"	d	language:C	file:
+SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	language:C++	file:
+SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	language:C++	file:
+SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	language:C++	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	170;"	d	language:C	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	185;"	d	language:C	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	37;"	d	language:C	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	language:C++	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	language:C++	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	language:C++	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	171;"	d	language:C	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	186;"	d	language:C	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	38;"	d	language:C	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	language:C++	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	language:C++	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	language:C++	file:
+SPECIALT_EMPTY	src/TileSheet.h	/^            SPECIALT_EMPTY = SPECIAL_TILES_SI,$/;"	e	language:C++	enum:TileSheet::special_tile_index_t
+SPECIALT_MAX	src/TileSheet.h	/^            SPECIALT_MAX$/;"	e	language:C++	enum:TileSheet::special_tile_index_t
+SPECIALT_NOGRAPHIC	src/TileSheet.h	/^            SPECIALT_NOGRAPHIC,$/;"	e	language:C++	enum:TileSheet::special_tile_index_t
+SPECIALT_START	src/TileSheet.h	/^            SPECIALT_START,$/;"	e	language:C++	enum:TileSheet::special_tile_index_t
+SPECIALT_WILD	src/TileSheet.h	/^            SPECIALT_WILD,$/;"	e	language:C++	enum:TileSheet::special_tile_index_t
+SPECIAL_TILES_SI	src/TileSheet.h	/^        static const unsigned int SPECIAL_TILES_SI = WORD_BONUS_POINTS_TILES_SI + WORD_BONUS_POINTS_TILES_NUMBER;$/;"	m	language:C++	class:TileSheet
+START_BONUS	src/BoardTiles.h	/^        static const unsigned int START_BONUS = 2;$/;"	m	language:C++	class:PointsTile
+STRINGIFY	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	309;"	d	language:C	file:
+STRINGIFY	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	language:C++	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	308;"	d	language:C	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	293;"	d	language:C++	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m	language:Make
+TEXTBOX_H_INCLUDED	src/Grappa/interface/TextBox.h	2;"	d	language:C++
+TILESHEET_H_INCLUDED	src/TileSheet.h	2;"	d	language:C++
+TOTAL_TILES_NUMBER	src/TileSheet.h	/^        static const unsigned int TOTAL_TILES_NUMBER = SPECIAL_TILES_SI + SPECIALT_MAX;$/;"	m	language:C++	class:TileSheet
+TRANSBOX_H_INCLUDED	src/Grappa/interface/TransBox.h	2;"	d	language:C++
+TextBox	src/Grappa/interface/TextBox.cpp	/^gr::TextBox::TextBox(const gr::TextBox& other):$/;"	f	language:C++	class:gr::TextBox
+TextBox	src/Grappa/interface/TextBox.cpp	/^gr::TextBox::TextBox(const sf::FloatRect& bounds):$/;"	f	language:C++	class:gr::TextBox
+TextBox	src/Grappa/interface/TextBox.cpp	/^gr::TextBox::TextBox(const sf::FloatRect& bounds, const sf::Font* font, unsigned int charSize):$/;"	f	language:C++	class:gr::TextBox
+TextBox	src/Grappa/interface/TextBox.h	/^class TextBox: public InterfaceImpl<TextBox> {$/;"	c	language:C++	namespace:gr
+TextInfo	src/Grappa/interface/TextBox.h	/^        struct TextInfo {$/;"	s	language:C++	class:gr::TextBox
+TileSheet	src/TileSheet.h	/^        TileSheet(){};$/;"	f	language:C++	class:TileSheet
+TileSheet	src/TileSheet.h	/^class TileSheet{$/;"	c	language:C++
+TransBox	src/Grappa/interface/TransBox.h	/^        TransBox(){}$/;"	f	language:C++	class:gr::TransBox
+TransBox	src/Grappa/interface/TransBox.h	/^        TransBox(const TransBox& other):$/;"	f	language:C++	class:gr::TransBox
+TransBox	src/Grappa/interface/TransBox.h	/^        TransBox(const sf::FloatRect& bounds):$/;"	f	language:C++	class:gr::TransBox
+TransBox	src/Grappa/interface/TransBox.h	/^class TransBox: public sf::Transformable {$/;"	c	language:C++	namespace:gr
+TurnHandler	src/TurnHandler.cpp	/^TurnHandler::TurnHandler(const TileSheet& tileSheet, sf::RenderWindow& window,$/;"	f	language:C++	class:TurnHandler
+TurnHandler	src/handlers.h	/^class TurnHandler: public Handler{$/;"	c	language:C++
+WORD_BONUS_POINTS_TILES_NUMBER	src/TileSheet.h	/^        static const unsigned int WORD_BONUS_POINTS_TILES_NUMBER = 5;$/;"	m	language:C++	class:TileSheet
+WORD_BONUS_POINTS_TILES_SI	src/TileSheet.h	/^        static const unsigned int WORD_BONUS_POINTS_TILES_SI = LETTER_BONUS_POINTS_TILES_SI + LETTER_BONUS_POINTS_TILES_NUMBER;$/;"	m	language:C++	class:TileSheet
+WordInfo	src/WordInfo.h	/^struct WordInfo {$/;"	s	language:C++
+WordsInfo	src/WordInfo.h	/^        WordsInfo() {}$/;"	f	language:C++	class:WordsInfo
+WordsInfo	src/WordInfo.h	/^        explicit WordsInfo(const WordInfo& mainWordInfo): mainWordInfo(mainWordInfo) {}$/;"	f	language:C++	class:WordsInfo
+WordsInfo	src/WordInfo.h	/^class WordsInfo {$/;"	c	language:C++
+add	src/Grappa/interface/Interface.h	/^T& Interface::add(const std::string& key, Args&&... args){$/;"	f	language:C++	class:gr::Interface
+add	src/Grappa/interface/Interface.h	/^T& Interface::add(const std::string& key, T* childInterface){$/;"	f	language:C++	class:gr::Interface
+addAnimation	src/Grappa/animation/AnimationHandler.cpp	/^void AnimationHandler::addAnimation(const AnimationInfo& animationInfo){$/;"	f	language:C++	class:AnimationHandler
+addClickFunction	src/Grappa/interface/Button.h	/^        Button& addClickFunction(const click_function_t& clickFunction){mClickFunctions.push_back(clickFunction); return *this;}$/;"	f	language:C++	class:gr::Button
+addClickFunctionality	src/Grappa/interface/Button.h	/^Button& Button::addClickFunctionality(Args&&... args) {$/;"	f	language:C++	class:gr::Button
+addCollateral	src/WordInfo.h	/^        void addCollateral(const WordInfo& collateralWordInfo) {collateralWordsInfo.push_back(collateralWordInfo);}$/;"	f	language:C++	class:WordsInfo
+addMainWildPosition	src/WordInfo.h	/^        void addMainWildPosition(size_t pos) {mainWordInfo.wildPositions.push_back(pos);}$/;"	f	language:C++	class:WordsInfo
+addMedia	src/Grappa/MediaProvider.h	/^void MediaProvider<T>::addMedia(const std::string& key, const T& media) {$/;"	f	language:C++	class:MediaProvider
+addRelative	src/Grappa/interface/Interface.h	/^T& Interface::addRelative(const std::string& key, Args&&... args){$/;"	f	language:C++	class:gr::Interface
+addRelative	src/Grappa/interface/Interface.h	/^T& Interface::addRelative(const std::string& key, T* childInterface){$/;"	f	language:C++	class:gr::Interface
+addTempMedia	src/Grappa/MediaProvider.h	/^std::string MediaProvider<T>::addTempMedia(const T& media) {$/;"	f	language:C++	class:MediaProvider
+addText	src/Grappa/interface/TextBox.cpp	/^gr::TextBox& gr::TextBox::addText(const std::string& text) {$/;"	f	language:C++	class:gr::TextBox
+addToHand	src/Player.cpp	/^bool Player::addToHand(char tile){$/;"	f	language:C++	class:Player
+boardButtonFunction	src/TurnHandler.cpp	/^void TurnHandler::boardButtonFunction(gr::Button& but) {$/;"	f	language:C++	class:TurnHandler
+board_validation_state_t	src/handlers.h	/^        enum board_validation_state_t {$/;"	g	language:C++	class:TurnHandler
+bonus	src/BoardTiles.h	/^        bonus_t bonus;$/;"	m	language:C++	class:PointsTile
+bonus	src/WordInfo.h	/^        unsigned int bonus = 1;$/;"	m	language:C++	struct:WordInfo
+bonus_t	src/BoardTiles.h	/^        enum bonus_t{$/;"	g	language:C++	class:PointsTile
+change	src/Grappa/Handler.cpp	/^void Handler::change(Handler*& handler){$/;"	f	language:C++	class:Handler
+charSize	src/Grappa/interface/TextBox.h	/^            unsigned int charSize;$/;"	m	language:C++	struct:gr::TextBox::TextInfo
+clear	src/Grappa/animation/AnimationHandler.h	/^        void clear() {while(!mAnimations.empty()) mAnimations.pop();}$/;"	f	language:C++	class:AnimationHandler
+clear	src/Grappa/interface/Interface.h	/^        void clear() {mChildInterfaces.clear();}$/;"	f	language:C++	class:gr::Interface
+clone	src/Grappa/interface/Bar.h	/^        Bar* clone() {return new Bar(*this);}$/;"	f	language:C++	class:gr::Bar
+clone	src/Grappa/interface/Interface.h	/^        virtual Ptr clone() const {return new Interface(*this);}$/;"	f	language:C++	class:gr::Interface
+collateralWordsInfo	src/WordInfo.h	/^        std::vector<WordInfo> collateralWordsInfo;$/;"	m	language:C++	class:WordsInfo
+color	src/Grappa/interface/TextBox.h	/^			sf::Color color = sf::Color::White;$/;"	m	language:C++	struct:gr::TextBox::TextInfo
+const	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	10;"	d	language:C	file:
+contr_t	src/Player.h	/^        enum contr_t {$/;"	g	language:C++	class:Player
+draw	src/Grappa/interface/Interface.cpp	/^void gr::Interface::draw(sf::RenderTarget& target, sf::RenderStates states) const {$/;"	f	language:C++	class:gr::Interface
+draw	src/InterBoard.cpp	/^void InterBoard::draw(sf::RenderTarget& target, sf::RenderStates states) const {$/;"	f	language:C++	class:InterBoard
+ePrimo	src/Dizionario.h	/^        bool ePrimo = false;$/;"	m	language:C++	struct:Dizionario::Nodo
+empty	src/Grappa/interface/Interface.h	/^        bool empty() const {return mChildInterfaces.empty();}$/;"	f	language:C++	class:gr::Interface
+endGame	src/TurnHandler.cpp	/^void TurnHandler::endGame(const Player* endingPlayer) {$/;"	f	language:C++	class:TurnHandler
+endOfWord	src/Dictionary.h	/^            bool endOfWord = false;$/;"	m	language:C++	struct:Dictionary::Node
+enstablishNewLetters	src/Board.cpp	/^void Board::enstablishNewLetters() {$/;"	f	language:C++	class:Board
+error	src/WordInfo.h	/^        error_t error = ERR_NONE;$/;"	m	language:C++	struct:WordInfo
+error_t	src/WordInfo.h	/^        enum error_t {$/;"	g	language:C++	struct:WordInfo
+features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v	language:C
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v	language:C++
+findValidCollateralWord	src/Board.cpp	/^boost::optional<WordInfo> Board::findValidCollateralWord(sf::Vector2i pos, orientation_t orientation,$/;"	f	language:C++	class:Board
+findValidWord	src/Board.cpp	/^WordInfo Board::findValidWord(sf::Vector2i pos, orientation_t orientation,$/;"	f	language:C++	class:Board
+findValidWords	src/Board.cpp	/^WordsInfo Board::findValidWords(sf::Vector2i pos) const {$/;"	f	language:C++	class:Board
+fishNextTile	src/Deck.cpp	/^char Deck::fishNextTile(){$/;"	f	language:C++	class:Deck
+font	src/Grappa/interface/TextBox.h	/^            const sf::Font* font;$/;"	m	language:C++	struct:gr::TextBox::TextInfo
+frameRects	src/Grappa/animation/Animation.h	/^        std::vector<sf::IntRect> frameRects;$/;"	m	language:C++	class:AnimationInfo
+gFontProvider	src/media.cpp	/^MediaProvider<sf::Font> gFontProvider;$/;"	v	language:C++
+gTextureProvider	src/media.cpp	/^MediaProvider<sf::Texture> gTextureProvider;$/;"	v	language:C++
+generate	src/TileSheet.cpp	/^bool TileSheet::generate(unsigned int elementsInRow, unsigned int tileDimension){$/;"	f	language:C++	class:TileSheet
+get	src/Grappa/interface/Interface.h	/^T& Interface::get(const std::string& key) const {$/;"	f	language:C++	class:gr::Interface
+getBounds	src/Grappa/interface/TransBox.h	/^        sf::FloatRect getBounds() const {return getTransform().transformRect(mBounds);}$/;"	f	language:C++	class:gr::TransBox
+getChildMap	src/Grappa/interface/Interface.h	/^        const std::map<std::string, Ptr>& getChildMap() const {return mChildInterfaces;}$/;"	f	language:C++	class:gr::Interface
+getClickStatus	src/Grappa/interface/Button.h	/^        CLICKSTATUS getClickStatus() const {return mClickStatus;}$/;"	f	language:C++	class:gr::Button
+getClicks	src/Grappa/interface/Button.h	/^        int getClicks() const {return mClicks;}$/;"	f	language:C++	class:gr::Button
+getContr	src/Player.h	/^        contr_t getContr() const {return mContr;}$/;"	f	language:C++	class:Player
+getCurrentAnimation	src/Grappa/animation/AnimationHandler.cpp	/^const Animation& AnimationHandler::getCurrentAnimation() const {$/;"	f	language:C++	class:AnimationHandler
+getCurrentFrame	src/Grappa/animation/Animation.h	/^        const sf::IntRect& getCurrentFrame() const {return mInfo->frameRects[mCurrentFrameIndex];}$/;"	f	language:C++	class:Animation
+getErrorMessage	src/WordInfo.cpp	/^std::string WordInfo::getErrorMessage() const {$/;"	f	language:C++	class:WordInfo
+getFramesNum	src/Grappa/animation/Animation.h	/^        size_t getFramesNum() const {return mInfo->frameRects.size();}$/;"	f	language:C++	class:Animation
+getHand	src/Player.h	/^        const hand_t& getHand() const {return mHand;}$/;"	f	language:C++	class:Player
+getHand	src/Player.h	/^        hand_t& getHand() {return mHand;}$/;"	f	language:C++	class:Player
+getLetterBonus	src/BoardTiles.h	/^        unsigned int getLetterBonus() const {return bonus == B_LETTER ? points : 1;}$/;"	f	language:C++	class:PointsTile
+getLetterTile	src/Board.cpp	/^LetterTile& Board::getLetterTile(const sf::Vector2i& pos){$/;"	f	language:C++	class:Board
+getLetterTile	src/Board.cpp	/^const LetterTile& Board::getLetterTile(const sf::Vector2i& pos) const {$/;"	f	language:C++	class:Board
+getLetterTilePoints	src/Board.cpp	/^unsigned int Board::getLetterTilePoints(const sf::Vector2i& pos) const {$/;"	f	language:C++	class:Board
+getMainSize	src/WordInfo.h	/^        size_t getMainSize() const {return mainWordInfo.word.size();}$/;"	f	language:C++	class:WordsInfo
+getMainWordInfo	src/WordInfo.h	/^        const WordInfo& getMainWordInfo() const {return mainWordInfo;}$/;"	f	language:C++	class:WordsInfo
+getMedia	src/Grappa/MediaProvider.h	/^const T& MediaProvider<T>::getMedia(std::string key) const {$/;"	f	language:C++	class:MediaProvider
+getMediaContainer	src/Grappa/MediaProvider.h	/^    const std::map<std::string, T>& getMediaContainer() const {return mMediaContainer;};$/;"	f	language:C++	class:MediaProvider
+getMediaPtr	src/Grappa/MediaProvider.h	/^const T* MediaProvider<T>::getMediaPtr(std::string key) const {$/;"	f	language:C++	class:MediaProvider
+getMsgOutput	src/handlers.h	/^		gr::TextBox* getMsgOutput() const {assert(mMsgOutput);return mMsgOutput;}$/;"	f	language:C++	class:TurnHandler
+getName	src/Player.h	/^        const std::string& getName() const {return mName;}$/;"	f	language:C++	class:Player
+getOrientation	src/WordInfo.h	/^        orientation_t getOrientation() const {return orientation;}$/;"	f	language:C++	struct:WordInfo
+getParent	src/Grappa/interface/Interface.h	/^        Interface& getParent() {assert(mParent && "FATAL ERROR: trying to get parent of interface with no parent"); return *mParent;}$/;"	f	language:C++	class:gr::Interface
+getPoints	src/Player.h	/^        unsigned int getPoints() const {return mPoints;}$/;"	f	language:C++	class:Player
+getPointsTile	src/Board.cpp	/^PointsTile& Board::getPointsTile(const sf::Vector2i& pos){$/;"	f	language:C++	class:Board
+getPointsTile	src/Board.cpp	/^const PointsTile& Board::getPointsTile(const sf::Vector2i& pos) const {$/;"	f	language:C++	class:Board
+getRadice	src/Dizionario.h	/^    const Nodo* getRadice() const {return mRadice;}$/;"	f	language:C++	class:Dizionario
+getRoot	src/Dictionary.h	/^        const Node* getRoot() const {return mRoot;}$/;"	f	language:C++	class:Dictionary
+getSize	src/InterBoard.cpp	/^sf::Vector2f InterBoard::getSize() const {$/;"	f	language:C++	class:InterBoard
+getSizeNT	src/InterBoard.cpp	/^sf::Vector2f InterBoard::getSizeNT() const {$/;"	f	language:C++	class:InterBoard
+getSymbol	src/InterTile.h	/^        char getSymbol() const {return mSymbol;}$/;"	f	language:C++	class:InterTile
+getTexture	src/Grappa/animation/Animation.h	/^        const sf::Texture& getTexture() const {return *(mInfo->texture);}$/;"	f	language:C++	class:Animation
+getTexture	src/Grappa/interface/PictureBox.h	/^		const sf::Texture& getTexture() const {return *mTexture;}$/;"	f	language:C++	class:gr::PictureBox
+getTexture	src/TileSheet.h	/^        const sf::Texture& getTexture() const {return mTexture;}$/;"	f	language:C++	class:TileSheet
+getTextureRect	src/Grappa/interface/PictureBox.h	/^        sf::IntRect getTextureRect() const {return mTextureRect;}$/;"	f	language:C++	class:gr::PictureBox
+getTileDimension	src/TileSheet.h	/^        unsigned int getTileDimension() const {return mTileDimension;}$/;"	f	language:C++	class:TileSheet
+getTileMousePosition	src/InterBoard.cpp	/^sf::Vector2i InterBoard::getTileMousePosition(const sf::RenderWindow& window) const {$/;"	f	language:C++	class:InterBoard
+getTileSheet	src/InterBoard.h	/^        const TileSheet& getTileSheet() const {return mTileSheet;}$/;"	f	language:C++	class:InterBoard
+getTileSize	src/InterBoard.h	/^        sf::Vector2i getTileSize() const {return {mBoardWidth, mBoardHeight};}$/;"	f	language:C++	class:InterBoard
+getTotalNumberOfNewTiles	src/WordInfo.h	/^        unsigned int getTotalNumberOfNewTiles() const {return mainWordInfo.numOfNewTiles;}$/;"	f	language:C++	class:WordsInfo
+getTotalNumberOfOldTiles	src/WordInfo.cpp	/^unsigned int WordsInfo::getTotalNumberOfOldTiles() const {$/;"	f	language:C++	class:WordsInfo
+getTotalPoints	src/WordInfo.cpp	/^unsigned int WordsInfo::getTotalPoints() const {$/;"	f	language:C++	class:WordsInfo
+getTotalPoints	src/WordInfo.h	/^        auto getTotalPoints() const {if(this != nullptr);}$/;"	f	language:C++	struct:WordInfo
+getVectorMagnitude	src/Grappa/utils.h	/^T getVectorMagnitude(const sf::Vector2<T>& vector) {$/;"	f	language:C++
+getWordBonus	src/BoardTiles.h	/^        unsigned int getWordBonus() const {return bonus == B_WORD ? points : 1;}$/;"	f	language:C++	class:PointsTile
+gr	src/Grappa/interface/Bar.h	/^namespace gr {$/;"	n	language:C++
+gr	src/Grappa/interface/Button.h	/^namespace gr {$/;"	n	language:C++
+gr	src/Grappa/interface/ButtonFunctions.h	/^namespace gr {$/;"	n	language:C++
+gr	src/Grappa/interface/Interface.h	/^namespace gr {$/;"	n	language:C++
+gr	src/Grappa/interface/PictureBox.h	/^namespace gr {$/;"	n	language:C++
+gr	src/Grappa/interface/TextBox.h	/^namespace gr {$/;"	n	language:C++
+gr	src/Grappa/interface/TransBox.h	/^namespace gr {$/;"	n	language:C++
+gr	src/Grappa/interface/globals.h	/^namespace gr {$/;"	n	language:C++
+handleDrawing	src/EndScreenHandler.cpp	/^void EndScreenHandler::handleDrawing() const {$/;"	f	language:C++	class:EndScreenHandler
+handleDrawing	src/TurnHandler.cpp	/^void TurnHandler::handleDrawing() const {$/;"	f	language:C++	class:TurnHandler
+handleEvent	src/EndScreenHandler.cpp	/^void EndScreenHandler::handleEvent(const sf::Event& e) {$/;"	f	language:C++	class:EndScreenHandler
+handleEvent	src/Grappa/interface/Interface.cpp	/^void gr::Interface::handleEvent(const sf::Event& e) {$/;"	f	language:C++	class:gr::Interface
+handleEvent	src/InterBoard.cpp	/^void InterBoard::handleEvent(const sf::Event& e, const sf::RenderWindow& window){$/;"	f	language:C++	class:InterBoard
+handleEvent	src/TurnHandler.cpp	/^void TurnHandler::handleEvent(const sf::Event& e) {$/;"	f	language:C++	class:TurnHandler
+handleLogic	src/EndScreenHandler.cpp	/^void EndScreenHandler::handleLogic(const sf::Time& time) {$/;"	f	language:C++	class:EndScreenHandler
+handleLogic	src/InterBoard.cpp	/^void InterBoard::handleLogic(const sf::RenderWindow& window){$/;"	f	language:C++	class:InterBoard
+handleLogic	src/TurnHandler.cpp	/^void TurnHandler::handleLogic(const sf::Time& time) {$/;"	f	language:C++	class:TurnHandler
+hasError	src/WordInfo.cpp	/^bool WordsInfo::hasError() const {$/;"	f	language:C++	class:WordsInfo
+highlightInvalidWord	src/Board.cpp	/^void Board::highlightInvalidWord(sf::Vector2i pos, orientation_t orientation) {$/;"	f	language:C++	class:Board
+highlightValidWord	src/Board.cpp	/^void Board::highlightValidWord(sf::Vector2i pos, orientation_t orientation) {$/;"	f	language:C++	class:Board
+highlightWords	src/Board.cpp	/^void Board::highlightWords(const WordsInfo& wordsInfo) {$/;"	f	language:C++	class:Board
+ilist	src/Grappa/utils.h	/^auto ilist(const std::initializer_list<T>& list) {$/;"	f	language:C++
+info_arch	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C
+info_arch	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C++
+info_compiler	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	language:C
+info_compiler	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	language:C++
+info_cray	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	language:C
+info_cray	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	language:C++
+info_language_dialect_default	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	language:C
+info_language_dialect_default	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	language:C++
+info_platform	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	language:C
+info_platform	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	language:C++
+info_simulate	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	language:C
+info_simulate	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	language:C++
+info_simulate_version	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	language:C
+info_simulate_version	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	language:C++
+info_version	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	language:C
+info_version	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	language:C++
+info_version_internal	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	language:C
+info_version_internal	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	language:C++
+initializePlayerInterface	src/TurnHandler.cpp	/^void TurnHandler::initializePlayerInterface() {$/;"	f	language:C++	class:TurnHandler
+invalidHighlight	src/BoardTiles.h	/^        bool invalidHighlight = false;$/;"	m	language:C++	class:LetterTile
+isActive	src/Grappa/interface/Interface.h	/^        bool isActive() const {return mIsActive;}$/;"	f	language:C++	class:gr::Interface
+isDone	src/Grappa/animation/Animation.h	/^        bool isDone() const {return mIsDone;}$/;"	f	language:C++	class:Animation
+isDone	src/Grappa/animation/AnimationHandler.h	/^        bool isDone() const {return mAnimations.empty();}$/;"	f	language:C++	class:AnimationHandler
+isFirst	src/Dictionary.h	/^            bool isFirst = false;$/;"	m	language:C++	struct:Dictionary::Node
+isHandEmpty	src/Player.h	/^        bool isHandEmpty()const {return mHand.empty();}$/;"	f	language:C++	class:Player
+isInvalid	src/WordInfo.h	/^        bool isInvalid() const {return error;}$/;"	f	language:C++	struct:WordInfo
+isLooping	src/Grappa/animation/Animation.h	/^        bool isLooping = false;$/;"	m	language:C++	class:AnimationInfo
+isLooping	src/Grappa/animation/Animation.h	/^        bool isLooping() const {return mInfo->isLooping;}$/;"	f	language:C++	class:Animation
+isNew	src/BoardTiles.h	/^        bool isNew = false;$/;"	m	language:C++	class:LetterTile
+isWild	src/BoardTiles.h	/^        bool isWild = false;$/;"	m	language:C++	class:LetterTile
+letterTile	src/BoardTiles.h	/^    LetterTile letterTile;$/;"	m	language:C++	struct:BoardTile
+lettere	src/Dizionario.h	/^        array<Nodo*,26> lettere;$/;"	m	language:C++	struct:Dizionario::Nodo
+links	src/Dictionary.h	/^            std::array<Node*, NUMBER_OF_LETTERS> links;$/;"	m	language:C++	struct:Dictionary::Node
+loadMedia	src/Grappa/MediaProvider.h	/^bool MediaProvider<T>::loadMedia(const std::string& key, const std::string& path) {$/;"	f	language:C++	class:MediaProvider
+loadMedia	src/Grappa/MediaProvider.h	/^bool MediaProvider<T>::loadMedia(std::initializer_list<MediaProvider::StringPair> paths) {$/;"	f	language:C++	class:MediaProvider
+loadMediaFromDirectory	src/Grappa/MediaProvider.h	/^bool MediaProvider<T>::loadMediaFromDirectory(const fs::path& dirPath, char separator) {$/;"	f	language:C++	class:MediaProvider
+loadPlayerInfo	src/TurnHandler.cpp	/^void TurnHandler::loadPlayerInfo(std::string filePath) {$/;"	f	language:C++	class:TurnHandler
+load_media	src/media.cpp	/^bool load_media(){$/;"	f	language:C++
+mAnimations	src/Grappa/animation/AnimationHandler.h	/^        std::stack<Animation> mAnimations;$/;"	m	language:C++	class:AnimationHandler
+mBoardHeight	src/Board.h	/^        unsigned int mBoardWidth, mBoardHeight;$/;"	m	language:C++	class:Board
+mBoardValidationState	src/handlers.h	/^        board_validation_state_t mBoardValidationState = BVS_NONE;$/;"	m	language:C++	class:TurnHandler
+mBoardWidth	src/Board.h	/^        unsigned int mBoardWidth, mBoardHeight;$/;"	m	language:C++	class:Board
+mBounds	src/Grappa/interface/TransBox.h	/^        sf::FloatRect mBounds;$/;"	m	language:C++	class:gr::TransBox
+mCards	src/Deck.h	/^        std::vector<char> mCards;$/;"	m	language:C++	class:Deck
+mChildInterfaces	src/Grappa/interface/Interface.h	/^        std::map<std::string, Ptr> mChildInterfaces;$/;"	m	language:C++	class:gr::Interface
+mClickFunctions	src/Grappa/interface/Button.h	/^        std::vector<click_function_t> mClickFunctions;$/;"	m	language:C++	class:gr::Button
+mClickStatus	src/Grappa/interface/Button.h	/^        CLICKSTATUS mClickStatus = CLICKST_OUTSIDE;$/;"	m	language:C++	class:gr::Button
+mClicks	src/Grappa/interface/Button.h	/^        int mClicks = 0;$/;"	m	language:C++	class:gr::Button
+mContr	src/Player.h	/^        contr_t mContr;$/;"	m	language:C++	class:Player
+mCurrentFrameIndex	src/Grappa/animation/Animation.h	/^        size_t mCurrentFrameIndex = 0;$/;"	m	language:C++	class:Animation
+mCurrentPlayer	src/handlers.h	/^        std::vector<Player>::iterator mCurrentPlayer;$/;"	m	language:C++	class:TurnHandler
+mDeck	src/handlers.h	/^        Deck mDeck;$/;"	m	language:C++	class:TurnHandler
+mDictionary	src/Board.h	/^        const Dictionary* mDictionary;$/;"	m	language:C++	class:Board
+mElementsInRow	src/TileSheet.h	/^        unsigned int mElementsInRow = 6;$/;"	m	language:C++	class:TileSheet
+mEndText	src/handlers.h	/^        sf::Text mEndText;$/;"	m	language:C++	class:EndScreenHandler
+mFrameDebt	src/Grappa/animation/Animation.h	/^        float mFrameDebt = 0;$/;"	m	language:C++	class:Animation
+mHand	src/Player.h	/^        std::list<char> mHand;$/;"	m	language:C++	class:Player
+mInfo	src/Grappa/animation/Animation.h	/^        const AnimationInfo* mInfo;$/;"	m	language:C++	class:Animation
+mInterBoard	src/handlers.h	/^        InterBoard mInterBoard;$/;"	m	language:C++	class:TurnHandler
+mInterTileDimension	src/handlers.h	/^        float mInterTileDimension;$/;"	m	language:C++	class:TurnHandler
+mIsActive	src/Grappa/interface/Interface.h	/^        bool mIsActive = true;$/;"	m	language:C++	class:gr::Interface
+mIsDone	src/Grappa/animation/Animation.h	/^        bool mIsDone = false;$/;"	m	language:C++	class:Animation
+mLoopingAnimation	src/Grappa/animation/AnimationHandler.h	/^        boost::optional<Animation> mLoopingAnimation;$/;"	m	language:C++	class:AnimationHandler
+mMargins	src/Grappa/interface/Interface.h	/^        sf::FloatRect mMargins = sf::FloatRect(0, 0, 0, 0);$/;"	m	language:C++	class:gr::Interface
+mMaxValue	src/Grappa/interface/Bar.h	/^        double mMaxValue;$/;"	m	language:C++	class:gr::Bar
+mMediaContainer	src/Grappa/MediaProvider.h	/^    std::map<std::string, T> mMediaContainer;$/;"	m	language:C++	class:MediaProvider
+mMovingTile	src/handlers.h	/^        InterTile* mMovingTile = nullptr;$/;"	m	language:C++	class:TurnHandler
+mMsgOutput	src/handlers.h	/^		gr::TextBox* mMsgOutput = nullptr;$/;"	m	language:C++	class:TurnHandler
+mName	src/Player.h	/^        std::string mName;$/;"	m	language:C++	class:Player
+mNeedToUpdateVertices	src/Board.h	/^		mutable bool mNeedToUpdateVertices = true;$/;"	m	language:C++	class:Board
+mNeedToUpdateVertices	src/Grappa/interface/PictureBox.h	/^        mutable bool mNeedToUpdateVertices = true;$/;"	m	language:C++	class:gr::PictureBox
+mNeedToUpdateVertices	src/Grappa/interface/TextBox.h	/^        mutable bool mNeedToUpdateVertices;$/;"	m	language:C++	class:gr::TextBox
+mNewTilesNum	src/Board.h	/^        unsigned int mNewTilesNum = 0;$/;"	m	language:C++	class:Board
+mNext	src/Grappa/Handler.cpp	/^Handler* Handler::mNext = nullptr;$/;"	m	language:C++	class:Handler	file:
+mNext	src/Grappa/Handler.h	/^        static Handler* mNext;$/;"	m	language:C++	class:Handler
+mParent	src/Grappa/interface/Interface.h	/^        Ptr mParent = nullptr;$/;"	m	language:C++	class:gr::Interface
+mPictureBox	src/Grappa/interface/ButtonFunctions.h	/^		PictureBox* mPictureBox = nullptr; $/;"	m	language:C++	class:gr::Clip
+mPlayerInterface	src/handlers.h	/^		gr::Interface* mPlayerInterface = nullptr;$/;"	m	language:C++	class:TurnHandler
+mPlayers	src/handlers.h	/^        std::vector<Player> mPlayers;$/;"	m	language:C++	class:EndScreenHandler
+mPlayers	src/handlers.h	/^        std::vector<Player> mPlayers;$/;"	m	language:C++	class:TurnHandler
+mPoints	src/Player.h	/^        unsigned int mPoints = 0;$/;"	m	language:C++	class:Player
+mRadice	src/Dizionario.h	/^    Nodo* mRadice=nullptr;$/;"	m	language:C++	class:Dizionario
+mRectangle	src/Grappa/interface/Bar.h	/^        sf::RectangleShape mRectangle;$/;"	m	language:C++	class:gr::Bar
+mRoot	src/Dictionary.h	/^        Node* mRoot;$/;"	m	language:C++	class:Dictionary
+mSymbol	src/InterTile.h	/^        char mSymbol;$/;"	m	language:C++	class:InterTile
+mTextInfo	src/Grappa/interface/TextBox.h	/^        TextInfo mTextInfo;$/;"	m	language:C++	class:gr::TextBox
+mTexture	src/Grappa/interface/PictureBox.h	/^		const sf::Texture* mTexture = nullptr;$/;"	m	language:C++	class:gr::PictureBox
+mTexture	src/TileSheet.h	/^        sf::Texture mTexture;$/;"	m	language:C++	class:TileSheet
+mTextureFrames	src/Grappa/interface/ButtonFunctions.h	/^		FrameArray<int> mTextureFrames;$/;"	m	language:C++	class:gr::Clip
+mTextureRect	src/Grappa/interface/PictureBox.h	/^        sf::IntRect mTextureRect;$/;"	m	language:C++	class:gr::PictureBox
+mTileDimension	src/TileSheet.h	/^        unsigned int mTileDimension = 100;$/;"	m	language:C++	class:TileSheet
+mTileSheet	src/InterBoard.h	/^        const TileSheet& mTileSheet;$/;"	m	language:C++	class:InterBoard
+mTileSheet	src/handlers.h	/^        const TileSheet& mTileSheet;$/;"	m	language:C++	class:TurnHandler
+mTiles	src/Board.h	/^        std::vector<BoardTile> mTiles;$/;"	m	language:C++	class:Board
+mTurn	src/handlers.h	/^        unsigned int mTurn = 0;$/;"	m	language:C++	class:TurnHandler
+mTurnPoints	src/handlers.h	/^        unsigned int mTurnPoints = 0;$/;"	m	language:C++	class:TurnHandler
+mValueGetter	src/Grappa/interface/Bar.h	/^        std::function<double()> mValueGetter;$/;"	m	language:C++	class:gr::Bar
+mVertices	src/Grappa/interface/PictureBox.h	/^        mutable sf::VertexArray mVertices;$/;"	m	language:C++	class:gr::PictureBox
+mVertices	src/Grappa/interface/TextBox.h	/^        mutable sf::VertexArray mVertices;$/;"	m	language:C++	class:gr::TextBox
+mVertices	src/InterBoard.h	/^        mutable std::vector<sf::Vertex> mVertices;$/;"	m	language:C++	class:InterBoard
+mWasJustClicked	src/Grappa/interface/Button.h	/^        mutable bool mWasJustClicked = false;$/;"	m	language:C++	class:gr::Button
+mWindow	src/Grappa/Handler.h	/^        sf::RenderWindow& mWindow;$/;"	m	language:C++	class:Handler
+main	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f	language:C
+main	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	language:C
+main	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	language:C++
+main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	language:C
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	language:C++
+main	src/main.cpp	/^int main()$/;"	f	language:C++
+mainWordInfo	src/WordInfo.h	/^        WordInfo mainWordInfo;$/;"	m	language:C++	class:WordsInfo
+makeClipRect	src/TileSheet.cpp	/^sf::IntRect TileSheet::makeClipRect(char symbol) const {$/;"	f	language:C++	class:TileSheet
+makeClipRect	src/TileSheet.cpp	/^sf::IntRect TileSheet::makeClipRect(const PointsTile& pointsTile) const {$/;"	f	language:C++	class:TileSheet
+makeErrorString	src/WordInfo.cpp	/^std::string WordsInfo::makeErrorString() const {$/;"	f	language:C++	class:WordsInfo
+makeTileBgSprite	src/TileSheet.cpp	/^sf::Sprite TileSheet::makeTileBgSprite(const sf::Texture& texture, unsigned int index) const {$/;"	f	language:C++	class:TileSheet
+makeTileBonusText	src/TileSheet.cpp	/^sf::Text TileSheet::makeTileBonusText(const sf::Font& font, PointsTile::bonus_t bonus, unsigned int points, unsigned int index) const {$/;"	f	language:C++	class:TileSheet
+makeTileLetterText	src/TileSheet.cpp	/^sf::Text TileSheet::makeTileLetterText(const sf::Font& font, char letter, unsigned int index) const {$/;"	f	language:C++	class:TileSheet
+makeTilePointsText	src/TileSheet.cpp	/^sf::Text TileSheet::makeTilePointsText(const sf::Font& font, unsigned int points, unsigned int index) const{$/;"	f	language:C++	class:TileSheet
+makeTilePositionFromIndex	src/TileSheet.cpp	/^sf::Vector2i TileSheet::makeTilePositionFromIndex(unsigned int index) const {$/;"	f	language:C++	class:TileSheet
+moveBounds	src/Grappa/interface/Interface.h	/^		Interface& moveBounds(float dx, float dy) {return setBoundsPosition(getBounds().left + dx,$/;"	f	language:C++	class:gr::Interface
+moveMovingTile	src/TurnHandler.cpp	/^void TurnHandler::moveMovingTile() {$/;"	f	language:C++	class:TurnHandler
+nextTurn	src/TurnHandler.cpp	/^void TurnHandler::nextTurn() {$/;"	f	language:C++	class:TurnHandler
+normalizeVector	src/Grappa/utils.h	/^sf::Vector2<T> normalizeVector(const sf::Vector2<T>& vector) {$/;"	f	language:C++
+numOfNewTiles	src/WordInfo.h	/^        unsigned int numOfNewTiles = 0;$/;"	m	language:C++	struct:WordInfo
+numOfOldTiles	src/WordInfo.h	/^        unsigned int numOfOldTiles = 0;$/;"	m	language:C++	struct:WordInfo
+operator ()	src/Grappa/interface/ButtonFunctions.cpp	/^void gr::Clip::operator()(Button& button) const {$/;"	f	language:C++	class:gr::Clip
+operator *	src/Grappa/utils.h	/^auto operator*(const sf::Vector2<T>& lhs, const sf::Vector2<T>& rhs) {$/;"	f	language:C++
+operator *	src/Grappa/utils.h	/^inline sf::Vector2<VT> operator*(const sf::Vector2<VT>& vect, const ST& scalar) {$/;"	f	language:C++
+operator *=	src/Grappa/utils.h	/^inline sf::Vector2<VT>& operator*=(sf::Vector2<VT>& vect, const ST& scalar) {$/;"	f	language:C++
+operator +	src/Grappa/utils.h	/^sf::Rect<T> operator+(const sf::Rect<T>& lhs, const sf::Rect<T>& rhs) {$/;"	f	language:C++
+operator +	src/WordInfo.h	/^        WordInfo operator+(char c) {$/;"	f	language:C++	struct:WordInfo
+operator +	src/WordInfo.h	/^        WordsInfo operator+(char letter) {$/;"	f	language:C++	class:WordsInfo
+operator +=	src/Grappa/utils.h	/^sf::Rect<T>& operator+=(sf::Rect<T>& lhs, const sf::Rect<T>& rhs) {$/;"	f	language:C++
+operator +=	src/WordInfo.h	/^        WordInfo& operator+=(char c) {$/;"	f	language:C++	struct:WordInfo
+operator +=	src/WordInfo.h	/^        WordsInfo& operator+=(char letter) {$/;"	f	language:C++	class:WordsInfo
+operator -	src/Grappa/utils.h	/^sf::Rect<T> operator-(const sf::Rect<T>& lhs, const sf::Rect<T>& rhs) {$/;"	f	language:C++
+operator -=	src/Grappa/utils.h	/^sf::Rect<T>& operator-=(sf::Rect<T>& lhs, const sf::Rect<T>& rhs) {$/;"	f	language:C++
+operator /	src/Grappa/utils.h	/^auto operator\/(const sf::Vector2<T>& lhs, const sf::Vector2<T>& rhs) {$/;"	f	language:C++
+operator <<	src/Grappa/interface/TextBox.h	/^		TextBox& operator<<(const std::string& text) {addText(text); return *this;}$/;"	f	language:C++	class:gr::TextBox
+operator <<	src/Grappa/utils.h	/^std::ostream& operator<<(std::ostream& stream, const sf::Rect<T>& rect) {$/;"	f	language:C++
+operator <<	src/Grappa/utils.h	/^std::ostream& operator<<(std::ostream& stream, const sf::Vector2<T>& vector){$/;"	f	language:C++
+operator []	src/Grappa/MediaProvider.h	/^const T& MediaProvider<T>::operator[](std::string key) const {$/;"	f	language:C++	class:MediaProvider
+orientation	src/WordInfo.h	/^        orientation_t orientation = O_HORIZONTAL;$/;"	m	language:C++	struct:WordInfo
+orientation_t	src/WordInfo.h	/^enum orientation_t {$/;"	g	language:C++
+override	src/Grappa/interface/Bar.h	/^        void parentDraw(sf::RenderTarget& target, sf::RenderStates states) const override;$/;"	m	language:C++	class:gr::Bar
+override	src/Grappa/interface/Bar.h	/^        void parentUpdate(const sf::RenderWindow& window) override;$/;"	m	language:C++	class:gr::Bar
+override	src/Grappa/interface/Bar.h	/^        void setBounds(const sf::FloatRect& bounds) override;$/;"	m	language:C++	class:gr::Bar
+override	src/Grappa/interface/Button.h	/^        void parentUpdate(const sf::RenderWindow &window) override;$/;"	m	language:C++	class:gr::Button
+override	src/Grappa/interface/PictureBox.h	/^        void parentDraw(sf::RenderTarget& target, sf::RenderStates states) const override;$/;"	m	language:C++	class:gr::PictureBox
+override	src/Grappa/interface/PictureBox.h	/^        void setBounds(const sf::FloatRect& bounds) override;$/;"	m	language:C++	class:gr::PictureBox
+override	src/Grappa/interface/TextBox.h	/^        void parentDraw(sf::RenderTarget& target, sf::RenderStates states) const override;$/;"	m	language:C++	class:gr::TextBox
+override	src/handlers.h	/^        void handleDrawing() const override;$/;"	m	language:C++	class:EndScreenHandler
+override	src/handlers.h	/^        void handleDrawing() const override;$/;"	m	language:C++	class:TurnHandler
+override	src/handlers.h	/^        void handleEvent(const sf::Event& e) override;$/;"	m	language:C++	class:EndScreenHandler
+override	src/handlers.h	/^        void handleEvent(const sf::Event& e) override;$/;"	m	language:C++	class:TurnHandler
+override	src/handlers.h	/^        void handleLogic(const sf::Time& time) override;$/;"	m	language:C++	class:EndScreenHandler
+override	src/handlers.h	/^        void handleLogic(const sf::Time& time) override;$/;"	m	language:C++	class:TurnHandler
+parentAfterUpdate	src/Grappa/interface/Button.h	/^        virtual void parentAfterUpdate(const sf::RenderWindow& window) {}$/;"	f	language:C++	class:gr::Button
+parentDraw	src/Grappa/interface/Bar.cpp	/^void gr::Bar::parentDraw(sf::RenderTarget& target, sf::RenderStates states) const {$/;"	f	language:C++	class:gr::Bar
+parentDraw	src/Grappa/interface/Interface.h	/^        virtual void parentDraw(sf::RenderTarget& target, sf::RenderStates states) const {};$/;"	f	language:C++	class:gr::Interface
+parentDraw	src/Grappa/interface/PictureBox.cpp	/^void gr::PictureBox::parentDraw(sf::RenderTarget& target, sf::RenderStates states) const {$/;"	f	language:C++	class:gr::PictureBox
+parentDraw	src/Grappa/interface/TextBox.cpp	/^void gr::TextBox::parentDraw(sf::RenderTarget& target, sf::RenderStates states) const {$/;"	f	language:C++	class:gr::TextBox
+parentHandleEvent	src/Grappa/interface/Interface.h	/^        virtual void parentHandleEvent(const sf::Event& event) {};$/;"	f	language:C++	class:gr::Interface
+parentUpdate	src/Grappa/interface/Bar.cpp	/^void gr::Bar::parentUpdate(const sf::RenderWindow& window) {$/;"	f	language:C++	class:gr::Bar
+parentUpdate	src/Grappa/interface/Button.cpp	/^void gr::Button::parentUpdate(const sf::RenderWindow &window){$/;"	f	language:C++	class:gr::Button
+parentUpdate	src/Grappa/interface/Interface.h	/^        virtual void parentUpdate(const sf::RenderWindow& window) {};$/;"	f	language:C++	class:gr::Interface
+parolaFinita	src/Dizionario.h	/^        bool parolaFinita = false;$/;"	m	language:C++	struct:Dizionario::Nodo
+pickInterTileRandomPosition	src/TurnHandler.cpp	/^sf::Vector2f TurnHandler::pickInterTileRandomPosition() const {$/;"	f	language:C++	class:TurnHandler
+pickTextureFrame	src/Grappa/interface/ButtonFunctions.cpp	/^sf::IntRect gr::Clip::pickTextureFrame(gr::CLICKSTATUS clickStatus) const {$/;"	f	language:C++	class:gr::Clip
+placeWord	src/Board.cpp	/^bool Board::placeWord(const WordsInfo& wordsInfo, Player& player) {$/;"	f	language:C++	class:Board
+points	src/BoardTiles.h	/^        unsigned int points;$/;"	m	language:C++	class:PointsTile
+points	src/WordInfo.h	/^        unsigned int points = 0;$/;"	m	language:C++	struct:WordInfo
+pointsTile	src/BoardTiles.h	/^    PointsTile pointsTile;$/;"	m	language:C++	struct:BoardTile
+posOutOfBounds	src/Board.h	/^        bool posOutOfBounds(const sf::Vector2i& pos) const {return pos.x < 0 || pos.y < 0 ||$/;"	f	language:C++	class:Board
+position	src/WordInfo.h	/^        sf::Vector2i position = {0, 0};$/;"	m	language:C++	struct:WordInfo
+print	src/Dictionary.cpp	/^void Dictionary::print() const {$/;"	f	language:C++	class:Dictionary
+print	src/Dictionary.cpp	/^void Dictionary::print(Dictionary::Node* Node, const std::string& word) const {$/;"	f	language:C++	class:Dictionary
+qnxnto	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C
+qnxnto	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C++
+recSuggestBestWord	src/Board.cpp	/^void Board::recSuggestBestWord(WordsInfo& bestWordsInfo, const Player::hand_t& hand,$/;"	f	language:C++	class:Board
+removeFromHand	src/Player.cpp	/^bool Player::removeFromHand(char tile){$/;"	f	language:C++	class:Player
+removeNewTiles	src/Board.cpp	/^std::vector<char> Board::removeNewTiles(){$/;"	f	language:C++	class:Board
+replenishCards	src/Deck.cpp	/^void Deck::replenishCards(){$/;"	f	language:C++	class:Deck
+replenishHand	src/Player.cpp	/^bool Player::replenishHand(Deck& deck){$/;"	f	language:C++	class:Player
+rrange	src/Grappa/utils.cpp	/^int rrange(int max) {$/;"	f	language:C++
+rrange	src/Grappa/utils.cpp	/^int rrange(int min, int max) {$/;"	f	language:C++
+rrangef	src/Grappa/utils.cpp	/^float rrangef(float max) {$/;"	f	language:C++
+rrangef	src/Grappa/utils.cpp	/^float rrangef(float min, float max) {$/;"	f	language:C++
+sIsGenerated	src/TileSheet.h	/^        bool sIsGenerated = false;$/;"	m	language:C++	class:TileSheet
+searchWord	src/Dictionary.cpp	/^bool Dictionary::searchWord(const std::string& word) const {$/;"	f	language:C++	class:Dictionary
+searchWord	src/Dictionary.cpp	/^bool Dictionary::searchWord(const std::string& word, Dictionary::Node* node, size_t index) const {$/;"	f	language:C++	class:Dictionary
+setActive	src/Grappa/interface/Interface.h	/^        void setActive(bool active){mIsActive = active;}$/;"	f	language:C++	class:gr::Interface
+setBounds	src/Grappa/interface/Bar.cpp	/^void gr::Bar::setBounds(const sf::FloatRect& bounds) {$/;"	f	language:C++	class:gr::Bar
+setBounds	src/Grappa/interface/PictureBox.cpp	/^void gr::PictureBox::setBounds(const sf::FloatRect& bounds){$/;"	f	language:C++	class:gr::PictureBox
+setBounds	src/Grappa/interface/TransBox.h	/^        virtual void setBounds(const sf::FloatRect& bounds){mBounds = bounds;}$/;"	f	language:C++	class:gr::TransBox
+setBoundsPosition	src/Grappa/interface/Interface.h	/^		Interface& setBoundsPosition(float x, float y) {mBounds.left = x;$/;"	f	language:C++	class:gr::Interface
+setButtonAsMovingTile	src/TurnHandler.cpp	/^void TurnHandler::setButtonAsMovingTile(gr::Button& button) {$/;"	f	language:C++	class:TurnHandler
+setCharacterSize	src/Grappa/interface/TextBox.h	/^        TextBox& setCharacterSize(unsigned int size) {mTextInfo.charSize = size; return *this;}$/;"	f	language:C++	class:gr::TextBox
+setClicks	src/Grappa/interface/Button.h	/^        void setClicks(int clicks){mClicks = clicks;}$/;"	f	language:C++	class:gr::Button
+setColor	src/Grappa/interface/TextBox.h	/^		TextBox& setColor(const sf::Color& color) {mTextInfo.color = color; mNeedToUpdateVertices = true; return *this;} $/;"	f	language:C++	class:gr::TextBox
+setFont	src/Grappa/interface/TextBox.h	/^        TextBox& setFont(const sf::Font* font) {mTextInfo.font = font; return *this;}$/;"	f	language:C++	class:gr::TextBox
+setLetterTile	src/Board.cpp	/^void Board::setLetterTile(const sf::Vector2i& pos, char symbol){$/;"	f	language:C++	class:Board
+setMainWordInfo	src/WordInfo.h	/^        void setMainWordInfo(const WordInfo& mwi) {mainWordInfo = mwi;}$/;"	f	language:C++	class:WordsInfo
+setMargins	src/Grappa/interface/Interface.cpp	/^gr::Interface& gr::Interface::setMargins(const sf::FloatRect& margins) {$/;"	f	language:C++	class:gr::Interface
+setNext	src/Grappa/Handler.cpp	/^bool Handler::setNext(Handler* handler){$/;"	f	language:C++	class:Handler
+setPoints	src/Player.h	/^        void setPoints(unsigned int points) {mPoints = points;}$/;"	f	language:C++	class:Player
+setText	src/Grappa/interface/TextBox.cpp	/^gr::TextBox& gr::TextBox::setText(const std::string& text) {$/;"	f	language:C++	class:gr::TextBox
+setTexture	src/Grappa/interface/PictureBox.h	/^		PictureBox& setTexture(const sf::Texture* texture) {mTexture = texture; mNeedToUpdateVertices = true; return *this;}$/;"	f	language:C++	class:gr::PictureBox
+setTextureRect	src/Grappa/interface/PictureBox.cpp	/^void gr::PictureBox::setTextureRect(const sf::IntRect& textureRect){$/;"	f	language:C++	class:gr::PictureBox
+setVectorMagnitude	src/Grappa/utils.h	/^sf::Vector2<VT> setVectorMagnitude(const sf::Vector2<VT>& vector, ST magnitude) {$/;"	f	language:C++
+shuffle	src/Deck.cpp	/^void Deck::shuffle(){$/;"	f	language:C++	class:Deck
+special_tile_index_t	src/TileSheet.h	/^        enum special_tile_index_t{$/;"	g	language:C++	class:TileSheet
+speed	src/Grappa/animation/Animation.h	/^        unsigned int speed = 0;$/;"	m	language:C++	class:AnimationInfo
+stampa	src/Dizionario.cpp	/^void  Dizionario::stampa(Dizionario::Nodo* nodo, const string& parola)const{$/;"	f	language:C++	class:Dizionario
+stampa	src/Dizionario.cpp	/^void Dizionario::stampa() const {$/;"	f	language:C++	class:Dizionario
+suggestBestWord	src/Board.cpp	/^WordsInfo Board::suggestBestWord(const Player& player) const {$/;"	f	language:C++	class:Board
+symbol	src/BoardTiles.h	/^        char symbol = ' ';$/;"	m	language:C++	class:LetterTile
+tempCounter	src/Grappa/MediaProvider.h	/^    unsigned int tempCounter = 0;$/;"	m	language:C++	class:MediaProvider
+tempCreationAllowed	src/Grappa/MediaProvider.h	/^    bool tempCreationAllowed = false;$/;"	m	language:C++	class:MediaProvider
+text	src/Grappa/interface/TextBox.h	/^            std::string text;$/;"	m	language:C++	struct:gr::TextBox::TextInfo
+texture	src/Grappa/animation/Animation.h	/^        const sf::Texture* texture = nullptr;$/;"	m	language:C++	class:AnimationInfo
+undoWordSelection	src/Board.cpp	/^void Board::undoWordSelection(){$/;"	f	language:C++	class:Board
+undoWordSelection	src/Board.cpp	/^void Board::undoWordSelection(sf::Vector2i wordPosition, orientation_t wordOrientation) {$/;"	f	language:C++	class:Board
+update	src/Grappa/animation/Animation.cpp	/^sf::Time Animation::update(const sf::Time& time) {$/;"	f	language:C++	class:Animation
+update	src/Grappa/animation/AnimationHandler.cpp	/^void AnimationHandler::update(const sf::Time& time){$/;"	f	language:C++	class:AnimationHandler
+update	src/Grappa/interface/Interface.cpp	/^void gr::Interface::update(const sf::RenderWindow& window) {$/;"	f	language:C++	class:gr::Interface
+updateVertices	src/InterBoard.cpp	/^void InterBoard::updateVertices() const {$/;"	f	language:C++	class:InterBoard
+validHighlight	src/BoardTiles.h	/^        bool validHighlight = false;$/;"	m	language:C++	class:LetterTile
+volatile	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	11;"	d	language:C	file:
+wasJustClicked	src/Grappa/interface/Button.h	/^        bool wasJustClicked() const {if(mWasJustClicked) {mWasJustClicked = false; return true;} else return false;}$/;"	f	language:C++	class:gr::Button
+wildPositions	src/WordInfo.h	/^        std::vector<size_t> wildPositions;$/;"	m	language:C++	struct:WordInfo
+word	src/WordInfo.h	/^        std::string word = "";$/;"	m	language:C++	struct:WordInfo
+~Bar	src/Grappa/interface/Bar.h	/^        ~Bar() {}$/;"	f	language:C++	class:gr::Bar
+~Button	src/Grappa/interface/Button.h	/^        virtual ~Button(){}$/;"	f	language:C++	class:gr::Button
+~Interface	src/Grappa/interface/Interface.cpp	/^gr::Interface::~Interface() {$/;"	f	language:C++	class:gr::Interface
+~TurnHandler	src/TurnHandler.cpp	/^TurnHandler::~TurnHandler(){$/;"	f	language:C++	class:TurnHandler
