@@ -12,23 +12,22 @@ bool load_media(){
     bool success = true;
     //load textures
     success &= gTextureProvider.loadMedia({
-        {"letter_tile_bg", "art/letter_tile_bg.png"},
-        {"letter_bonus_bg", "art/letter_bonus_bg.png"},
-        {"word_bonus_bg", "art/word_bonus_bg.png"},
-        {"empty_tile", "art/empty_tile.png"},
-        {"start_bonus_tile", "art/start_bonus_tile.png"},
-        {"no_graphics", "art/no_graphics.png"},
-        {"beetle", "art/beetle.png"},
+        {"letter_tile_bg", "assets/art/letter_tile_bg.png"},
+        {"letter_bonus_bg", "assets/art/letter_bonus_bg.png"},
+        {"word_bonus_bg", "assets/art/word_bonus_bg.png"},
+        {"empty_tile", "assets/art/empty_tile.png"},
+        {"start_bonus_tile", "assets/art/start_bonus_tile.png"},
+        {"no_graphics", "assets/art/no_graphics.png"},
+        {"beetle", "assets/art/beetle.png"},
 
-        {"interface_bg", "art/interface/bg.jpg"},
-        {"interface_button", "art/interface/kenney_button.png"},
-        {"interface_panel", "art/interface/kenney_panel.png"},
-        {"interface_frame", "art/interface/steam_frame.png"}
+        {"interface_bg", "assets/art/interface/bg.jpg"},
+        {"interface_button", "assets/art/interface/kenney_button.png"},
+        {"interface_frame", "assets/art/interface/steam_frame.png"}
     });
     //load fonts
     success &= gFontProvider.loadMedia({
-        {"tile_letters", "fonts/LinLibertine_DRah.ttf"},
-        {"bonus_text", "fonts/GoodDog.otf"}
+        {"tile_letters", "assets/fonts/LinLibertine_DRah.ttf"},
+        {"bonus_text", "assets/fonts/GoodDog.otf"}
     });
     //return
     return success;

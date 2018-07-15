@@ -38,13 +38,13 @@ int main()
     tileSheet.generate(6, 500);
 
     //load dictionary
-    Dictionary dictionary("dictionaries/ita.txt");
+    Dictionary dictionary("assets/dictionaries/ita.txt");
 
-    //generate board
-    Board board("boards/scarabeo.txt", dictionary);
+    //generate board 
+    Board board("assets/boards/scarabeo.txt", dictionary);
 
     //initialize turn handler
-    Handler* gameHandler = new TurnHandler(tileSheet, window, std::move(board), "players.txt");
+    Handler* gameHandler = new TurnHandler(tileSheet, window, std::move(board), "assets/players.txt");
 
     ///main loop
     sf::Event e;
